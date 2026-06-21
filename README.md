@@ -115,10 +115,7 @@ Tested and working in:
 
 ## Credits
 
-- **Images**: [picsum.photos](https://picsum.photos) (placeholder images — replace with real photos)
-- **Fonts**: [Google Fonts](https://fonts.google.com) — Space Grotesk, Inter
-- **Maps**: Google Maps Embed API
-
+GAUTAM MEWARA.
 ---
 
 *Created by Gautam Mewara — ApexPlanet Internship Task*
